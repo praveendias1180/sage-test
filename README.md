@@ -15,3 +15,9 @@ https://laravel.com/
 `composer require roots/acorn`
 
 ![](acorn-install.png)
+
+# Install Sage
+
+`composer create-project roots/sage sage-praveen`
+
+![](sage-praveen.png)
